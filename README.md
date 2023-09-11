@@ -1,0 +1,2 @@
+# Singapore-Maritime-Dataset-Evaluation-of-Different-Vessel-Types-Using-Machine-Learning
+Creating a complete machine learning model for classifying vessel types in videos using the Singapore Maritime Dataset is a complex task that involves several steps. Please note that this is a simplified example, and a real-world implementation may require more data preprocessing, hyperparameter tuning, and optimizations.
